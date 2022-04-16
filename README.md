@@ -1,2 +1,2 @@
-This is our HAckTJ 9.0 Submission (to be renamed) - Neil and Kaushik
+This is our HackTJ 9.0 Submission (to be renamed) - Neil and Kaushik and Om
 
